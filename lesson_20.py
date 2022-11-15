@@ -3,10 +3,6 @@
 
 
 def even():
-    i = 10
-    if i %2 == 0:
-        print("odd")
+    return    
 
-    else:
-        print("even")
 even()
