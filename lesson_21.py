@@ -1,11 +1,6 @@
-"""
-git config -- username
-git config -- useremail
+name = "git"
 
-commit:
-upd 
-fix
-del
+"""
 
 
 
