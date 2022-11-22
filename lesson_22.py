@@ -1,1 +1,1 @@
-name = "codewars"
+name = "codeabbey"

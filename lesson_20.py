@@ -42,7 +42,3 @@ git branch -D : dlya udaleniya vetki
 
 
 
-def even():
-    return    
-
-even()
