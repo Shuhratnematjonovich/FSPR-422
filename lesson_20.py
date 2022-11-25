@@ -36,6 +36,11 @@ git pull :  синхронизует с локалним
 git commit -am : dlya dobavleniya i commita srazu
 git branch -D : dlya udaleniya vetki
 
+git push -f 
+git rebase -- continue
+
+
+
 
 
 """
